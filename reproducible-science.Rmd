@@ -48,4 +48,4 @@
 
 ## {data-background=https://sung.github.io/images/TRUTH.gif}
 - <font size=300%>Many thanks</font>
-- <font size=300%>https://github.com/sung/Stamp_collection_and_big_data</font>
+- <font size=300%>source code: "https://github.com/sung/Stamp_collection_and_big_data"</font>
