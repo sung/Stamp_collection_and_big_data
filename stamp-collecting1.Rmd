@@ -1,0 +1,33 @@
+## {data-background=https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/330px-Ernest_Rutherford_LOC.jpg}
+<div class="container">
+<div class="col">
+- ![Ernest Rutherford](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernest_Rutherford_LOC.jpg/330px-Ernest_Rutherford_LOC.jpg)
+</div>
+<div class="col">
+- Ernest Rutherford
+- 30 Aug 1871 - 19 Oct 1937
+- Father of nuclear physics
+- Discovery of proton
+- 3rd Directory of Cavendish Laboratory
+- Nobel prize in chemistry (1908)
+</div>
+</div>
+
+## Lord Enerst Rutherford
+- All science is either physics or stamp collecting
+- Other variants 
+    - That which is not measurable is not science (by William Thomson)
+    - That which is not physics is stamp collecting
+    - Physics is the only real science. The rest are just stamp collecting
+
+## <font color='black'>The Cavendish Lab</font> {data-background-iframe="https://en.wikipedia.org/wiki/Cavendish_Laboratory"}
+<div class="container">
+<div class="col">
+* ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cavendish-plaque_retouch_b.jpg/330px-Cavendish-plaque_retouch_b.jpg)
+* ![](https://www.visitcambridge.org/imageresizer/?image=%2Fdmsimgs%2FOld-Cavendish-Laboratory-1_308739537.jpg&action=ProductMain)
+</div>
+<div class="col">
+* ![](https://ichef.bbci.co.uk/news/660/cpsprodpb/A5F4/production/_98248424_eagle.jpg)
+* ![](https://cdn-blog.adafruit.com/uploads/2018/08/Watson_and_Crick_plaque.jpg)
+</div>
+</div>

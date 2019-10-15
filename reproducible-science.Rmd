@@ -1,0 +1,51 @@
+## Science (from the Latin scientia, meaning "knowledge") refers to any systematic knowledge-base or prescriptive practice that is capable of resulting in a prediction or predictable type of outcome
+* ![](Images/cause_and_effect.jpg)
+* <font size=200%>Reasoning</font>
+
+## Science & Reasoning
+- Inductive reasoning
+    - Induction (귀납법):reasoning from a specific case or cases and deriving a general rule 
+- Pattern recognition (recursive)
+    - Fractal
+- A process of making general rules behind observations
+    - Further to prediction
+- 사주, 팔자, 관상
+
+<div class="container">
+<div class="col">
+- ![](Images/reasoning1.jpg)
+</div>
+<div class="col">
+- ![](Images/reasoning2.jpg)
+</div>
+</div>
+
+## Repeatability vs. reproducibility
+![](https://i.ytimg.com/vi/tRDW5_XYu-0/maxresdefault.jpg)
+
+## Repeatability vs. reproducibility
+![](https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/repeatability-vs-reproducibility-317157.jpg)
+
+## ![Confounding effect](https://www.biorxiv.org/content/biorxiv/early/2015/12/27/025528/F1.large.jpg?width=800&height=600&carousel=1)
+
+## ![example](https://www.biorxiv.org/content/biorxiv/early/2015/12/27/025528/F3.large.jpg?width=800&height=600&carousel=1)
+
+## {data-background=Images/fair.jpg}
+
+## {data-background=https://i.ytimg.com/vi/jFekfemq7qU/maxresdefault.jpg}
+
+## CI/CD in research
+<div class="container">
+<div class="col">
+![](https://iiif.elifesciences.org/journal-cms/labs-post-content%2F2017-10%2Fimage2.png/full/617,/0/default.jpg )
+</div>
+<div class="col">
+![](https://nbis-reproducible-research.readthedocs.io/en/latest/images/tutorials_overview.svg)
+</div>
+</div>
+
+## {data-background=Images/recommended_reads.jpg}
+
+## {data-background=https://sung.github.io/images/TRUTH.gif}
+- <font size=200%>Many thanks</font>
+- <font size=200%></font>

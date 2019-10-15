@@ -1,0 +1,54 @@
+---
+title: "Stamp collection, big data and reproducible science"
+author: |
+  | [Sungsam Gong](https://sung.github.io){target="_blank"}
+  | [Clinical School](https://www.medschl.cam.ac.uk/)
+  | [University of Cambridge](https://www.cam.ac.uk)
+#date: "`r Sys.Date()`"
+date: "18 Oct 2019"
+output: 
+    revealjs::revealjs_presentation:
+        theme: night
+        widescreen: true
+        incremental: true
+        reveal_options:
+            slideNumber: true
+---
+```{r setup, include=FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # set global options
+```
+
+# Stamp collecting
+```{r child='stamp-collecting1.Rmd'}
+```
+<style>
+.container{
+    display: flex;
+}
+.col{
+    flex: 1;
+}
+</style>
+
+# Conclusion (summary)
+
+##
+- <font size=300%>'Stamping collecting' does matter in science</font>
+    - <font size=200%>But a matter of the cost, the size, and the speed</font>
+- <font size=300%>Big data and paradigm shift in science</font>
+    - <font size=200%>Hypothesis testing to hypothesis generating</font>
+    - <font size=200%>Recursive and repetitive</font>
+
+# Stamp collectors
+```{r child='stamp-collector1.Rmd'}
+```
+
+# Other stamps 
+```{r child='other-stamp.Rmd'}
+```
+
+# Reproducible Science
+```{r child='reproducible-science.Rmd'}
+```
+

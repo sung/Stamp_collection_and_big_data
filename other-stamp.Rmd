@@ -1,0 +1,45 @@
+## {data-background=https://www2.mrc-lmb.cam.ac.uk/wordpress/wp-content/uploads/Brenner_00835_9.jpg}
+- <font size=300%>Sydney Brenner (1927 – 2019) Nobel Prize 2002</font>
+- <font size=300%>Progress in science depends on new techniques, new discoveries, and new ideas, probably in that order</font>
+
+## {data-background=https://pbs.twimg.com/media/Dbo4wZ5VwAAo6xv.jpg}
+<div class="container">
+<div class="col">
+- ![](Images/genome-cost1.jpg)
+</div>
+<div class="col">
+- ![](Images/genome-cost2.jpg)
+</div>
+<div class="col">
+- ![](Images/genome-cost3.jpg)
+</div>
+</div>
+
+## {data-background=Images/sequencing-cost.jpg}
+
+## The growth of genomic data
+<div class="container">
+<div class="col">
+- ![](Images/genebank_growth.jpg)
+</div>
+<div class="col">
+- ![](Images/gong_pdb_growth.jpg)
+</div>
+<div class="col">
+- ![](Images/genebank_growth2.jpg)
+</div>
+</div>
+
+## Even bigger - multi omics {data-background=http://www.biomech.ulg.ac.be/wp-content/uploads/2019/02/mutli-omics_new.png}
+
+## AI & ML 
+<div class="container">
+<div class="col">
+- Where there’s data, there’s AI
+- But, data quality (QC) over quantity
+- Quality adjustment by AI? 
+</div>
+<div class="col">
+- ![](Images/ai_10yr.jpg)
+</div>
+</div>
