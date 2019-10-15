@@ -47,5 +47,5 @@
 ## {data-background=Images/recommended_reads.jpg}
 
 ## {data-background=https://sung.github.io/images/TRUTH.gif}
-- <font size=200%>Many thanks</font>
-- <font size=200%></font>
+- <font size=300%>Many thanks</font>
+- <font size=300%>https://github.com/sung/Stamp_collection_and_big_data</font>
